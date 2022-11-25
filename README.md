@@ -1,3 +1,3 @@
-# 404-lost-page-react
+# 404 Lost Page
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-lw8wn6)
