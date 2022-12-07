@@ -2,7 +2,7 @@
 
 body {
   font-family: Poppins, sans-serif;
-  background-color: rgb(247, 253, 255);
+  background-color: #f7fdff;
 }
 
 .container {
@@ -16,7 +16,7 @@ body {
 
 .row {
   border-style: solid;
-  border-color: rgb(242, 242, 242);
+  border-color: #f2f2f2;
   border-radius: 8px;
   display: flex;
   padding: 0;
@@ -62,7 +62,7 @@ body {
 }
 
 a {
-  color: rgb(244, 13, 13);
+  color: #f40d0d;
   display: inline-block;
   font-weight: bold;
   text-decoration: none;
